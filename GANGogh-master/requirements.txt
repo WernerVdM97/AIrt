@@ -1,0 +1,9 @@
+imageio==2.6.1
+tensorflow
+tensorflow-gpu
+scipy==1.1.0
+requests==2.22.0
+matplotlib==2.2.3
+numpy==1.14.5
+beautifulsoup4==4.8.1
+Pillow==6.2.1
