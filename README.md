@@ -1,2 +1,4 @@
 # AIrt
-ai generated art through CNN/GANs
+AI generated art through CNN/GANs
+
+See PyPunks.ipynb
