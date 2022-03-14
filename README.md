@@ -1,4 +1,6 @@
 # AIrt
 AI generated art through CNN/GANs
 
-See PyPunks.ipynb
+Trained on crypto punks dataset to produce AI punks
+
+See PyPunks.ipynb for main script. 
